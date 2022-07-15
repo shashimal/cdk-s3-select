@@ -11,12 +11,13 @@
     "cdk": "cdk"
   },
   "devDependencies": {
+    "@aws-sdk/client-s3": "^3.129.0",
     "@types/jest": "^27.5.2",
     "@types/node": "10.17.27",
     "@types/prettier": "2.6.0",
+    "aws-cdk": "2.31.2",
     "jest": "^27.5.1",
     "ts-jest": "^27.1.4",
-    "aws-cdk": "2.31.2",
     "ts-node": "^10.8.1",
     "typescript": "~3.9.7"
   },
